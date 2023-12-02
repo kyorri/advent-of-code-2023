@@ -40,3 +40,7 @@ CMakeCache.txt
 # Executables
 d1p1
 d1p2
+
+# Bonus
+*.json
+.vscode/
